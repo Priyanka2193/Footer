@@ -1,2 +1,0 @@
-# Footer
-Created with CodeSandbox
